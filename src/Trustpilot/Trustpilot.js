@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import styles from '../css/styles.css';
 
 const rating = 4.2
-
 const trustpilotRating = (rating / 5) * 100
 const starsColor = '#01CA88'
 
