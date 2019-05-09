@@ -1,0 +1,17 @@
+.trustpilot-stars {
+
+    width:88px;
+    height:16px;
+    mask-image: url('../img/trustpilot-stars.svg');
+    background-color: #DCDCE5;
+    position: relative;
+}
+
+.trustpilot-fill {
+
+    background-color: #01CA88;
+    height:100%;
+    position: absolute;
+    left:0;
+    top:0;
+}

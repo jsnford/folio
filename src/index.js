@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom'
 import './index.css'
 import Projects from './Projects';
 import Header from './Header';
+import Trustpilot from './Trustpilot';
 
 
 class App extends React.Component {
@@ -14,6 +15,7 @@ class App extends React.Component {
       <Router>
         <Header />
         <Route path={"/projects"} component={Projects} />
+        <Route path={"/trustpilot"} component={Trustpilot} />
         
       </Router>
       
