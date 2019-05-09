@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/folio/static/css/main.3cc76c52.chunk.css",
-    "main.js": "/folio/static/js/main.b097a954.chunk.js",
-    "main.js.map": "/folio/static/js/main.b097a954.chunk.js.map",
+    "main.js": "/folio/static/js/main.921762ba.chunk.js",
+    "main.js.map": "/folio/static/js/main.921762ba.chunk.js.map",
     "runtime~main.js": "/folio/static/js/runtime~main.0742296d.js",
     "runtime~main.js.map": "/folio/static/js/runtime~main.0742296d.js.map",
-    "static/js/2.c8253811.chunk.js": "/folio/static/js/2.c8253811.chunk.js",
-    "static/js/2.c8253811.chunk.js.map": "/folio/static/js/2.c8253811.chunk.js.map",
+    "static/js/2.1f97aa9e.chunk.js": "/folio/static/js/2.1f97aa9e.chunk.js",
+    "static/js/2.1f97aa9e.chunk.js.map": "/folio/static/js/2.1f97aa9e.chunk.js.map",
     "index.html": "/folio/index.html",
-    "precache-manifest.f46fc4229a13df5cda05711234d04b07.js": "/folio/precache-manifest.f46fc4229a13df5cda05711234d04b07.js",
+    "precache-manifest.f00ca094285c7971f39063f084075019.js": "/folio/precache-manifest.f00ca094285c7971f39063f084075019.js",
     "service-worker.js": "/folio/service-worker.js",
     "static/css/main.3cc76c52.chunk.css.map": "/folio/static/css/main.3cc76c52.chunk.css.map",
     "static/media/styles.css": "/folio/static/media/trustpilot-stars.022063c9.svg"
