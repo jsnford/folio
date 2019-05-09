@@ -25,8 +25,9 @@ class App extends React.Component {
 
 }
 
-/*ReactDOM.render(<Router basename={process.env.PUBLIC_URL}>< App /></Router>, document.getElementById('root'));*/
+ReactDOM.render(<Router basename={process.env.PUBLIC_URL}>< App /></Router>, document.getElementById('root'));
 
-ReactDOM.render((
+  
+/*ReactDOM.render((
     <App />
-), document.getElementById('root'))
+), document.getElementById('root'))*/
