@@ -14,7 +14,7 @@ class App extends React.Component {
       
       <Router>
         <Header />
-        <Route path={"/projects"} component={Projects} />
+        <Route path={process.env.PUBLIC_URL + '/projects'} component={Projects} />
         <Route path={"/trustpilot"} component={Trustpilot} />
         
       </Router>
